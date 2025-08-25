@@ -11,7 +11,8 @@ Email and Email verification
 Reset Password 
 Successfully Login 
 
-![App Preview](assets/UI designs 1.png)
+[![App Preview](assets/ui_designs.png)](assets/ui_designs.png)
+
 
 
 
