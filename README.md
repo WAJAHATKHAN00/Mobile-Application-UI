@@ -3,7 +3,7 @@ Beautiful fonts and colours are used .
 Suitable for any type of application ,which use name, password and email 
 
 **Pages**
-Login 
+Login/n 
 Sign Up 
 create account  
 password reset
